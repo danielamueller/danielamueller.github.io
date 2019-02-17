@@ -1,0 +1,16 @@
+# - title: Home
+#   url: /index.html
+
+- title: Portrait
+  url: /bio.html
+
+- title: Konzerte
+  url: /concerts.html
+  # sub_n: 2
+  # sub1_text: Konzertkalender
+  # sub1_anchor: cal
+  # sub2_text: Archiv
+  # sub2_anchor: arch
+
+- title: Kontakt
+  url: /contact.html

@@ -1,0 +1,22 @@
+---
+layout: default
+title: Konzerte
+---
+
+<h2>Konzertkalender</h2>
+<a class="anchor" id="cal"></a>
+<table>
+	{% for concert in site.data.concerts_future %}
+		{% include concert_layout.html %}
+	{% endfor %}
+</table>
+
+<!-- <hr/> -->
+
+<!-- <h2>Konzertarchiv</h2>
+<a class="anchor" id="arch"></a>
+<table>
+	{% for concert in site.data.concerts_past %}
+		{% include concert_layout.html %}
+	{% endfor %}
+</table> -->

@@ -1,0 +1,105 @@
+- datetime: |
+    21.02.2019, 18:00
+  place: |
+    Oekolampad Basel, Allschwilerplatz 22, <u>Basel</u>
+  title: |
+    Basel Composition Competition – Wettbewerbskonzert
+  description: |
+    Takuya Imahori (*1978): Con mille fiori che sbocciano così belli (2018) Uraufführung
+    Massimo Lauricella (*1961): Poiché non vi sarà più notte, né luce di sole (2018) Uraufführung
+    Jungjik Kim (*1982): Stück 3 (2018)
+  musicians: Basel Sinfonietta
+  url: http://baselsinfonietta.ch/konzerte/basel-composition-competition
+
+- datetime: |
+    24.02.2019, 11:00
+  place: |
+    Oekolampad Basel, Allschwilerplatz 22, <u>Basel</u>
+  title: |
+    Basel Composition Competition #2 – Abschlusskonzert
+  musicians: Basel Sinfonietta
+  url: http://baselsinfonietta.ch/konzerte/basel-composition-competition-2
+
+- datetime: |
+    23.03.2019, 19:30
+    24.03.2019, 17:00
+  place: |
+    Martinskirche Basel, Martinskirchplatz 4, <u>Basel</u>
+    Martinskirche Basel, Martinskirchplatz 4, <u>Basel</u>
+  title: |
+    Schweizer König
+  description: |
+    Arthur Honegger (1892–1955): Le Roi David – symphonischer Psalm (1923)
+  musicians: Basel Sinfonietta
+  url: http://baselsinfonietta.ch/konzerte/schweizer-könig-1
+  url2: http://baselsinfonietta.ch/konzerte/schweizer-könig-2
+
+- datetime: |
+    05.05.2019, 19:00
+  place: |
+    Pantheon Basel, Hofackerstrasse 72, <u>Muttenz</u>
+  title: |
+    Leuchtende Garage
+  description: |
+    Bernd Richard Deutsch (*1977): Konzert für Sheng und Orchester (2019) Uraufführung
+    I-sang Yun (1917–1995): Symphonie II in drei Sätzen (1984) Schweizer Erstaufführung
+    Rudolf Kelterborn (*1931): Musica luminosa per orchestra (1984)
+  musicians: Basel Sinfonietta
+  url: http://baselsinfonietta.ch/konzerte/leuchtende-garage
+
+- datetime: |
+    11.06.2019, 21:00
+    12.06.2019, 21:00
+    13.06.2019, 21:00
+    14.06.2019, 21:00
+    15.06.2019,	21:00
+  place: |
+    Kunstraum Walcheturm, Kanonengasse 20, <u>Zürich</u>
+    Kunstraum Walcheturm, Kanonengasse 20, <u>Zürich</u>
+    Neubad, Bireggstrasse 36, <u>Luzern</u>
+    Postremise, Engadinstrasse 43, <u>Chur</u>
+    Centre Le Phénix, Rue des Alpes 7, <u>Fribourg</u>
+  title: |
+    "Die Nacht der blauen Büffel"
+  description: |
+    Dominique Girod (*1975): Die Nacht der blauen Büffel (2019) Uraufführung
+  musicians: Ensemble für neue Musik Zürich
+  url: http://www.ensemble.ch
+
+- datetime: |
+    22.06.2019, 17:00
+  place: |
+    Villa Sträuli, Museumstrasse 60, <u>Winterthur</u>
+  title: |
+    Musica Aperta, 20. Jubiläum
+  description: |
+    Trios für variable Besetzung (Uraufführungen) von
+    Junghae Lee (*1964)
+    Rudolf Kelterborn (*1931)
+    Ralf Hoyer (*1950)
+    Cecilia Villanueva (*1964)
+    Lukas Stamm (*1994)
+    Susanne Stelzenbach (*1947)
+    Martin Daske (*1962)
+  musicians: Ensemble für neue Musik Zürich
+  url: http://www.ensemble.ch
+
+- datetime: |
+    25.10.2019, 20:00
+    26.10.2019, 19:00
+    28.11.2019, 19:00
+    01.12.2019, 17:00
+  place: |
+    Konzertreihe "L’art pour l’Aar", <u>Bern</u>
+    Schlössli Wartegg, Richard-Wagner-Weg 4, <u>Luzern</u>
+    Radius 39,  Wielandplatz 8, <u>Basel</u>
+    Palass, Pfistergasse 54, <u>Zofingen</u>
+  title: |
+    "Opus One"
+  description: |
+    Luigi Boccherini (1743–1805): Quintett Op. 45 N. 4 C-Dur
+    Anton von Webern (1883–1945): Satz für Streichtrio op. posth. (1925)
+    Thomas Demenga (*1945): "Palindromanie" für Streichtrio (1994)
+    Thomas Demenga (*1945): "Opus one" Streichquartett (2015)
+    Luigi Boccherini (1743–1805): grosses Quintett in C-Dur G 310
+  musicians: Ensemble van der Waals

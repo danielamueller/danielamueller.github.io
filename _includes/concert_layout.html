@@ -1,0 +1,61 @@
+<!-- date and time -->
+<tr>
+	<td align="right" style="width:8em">
+		{% capture string_with_newlines %}{{ concert.datetime }}{% endcapture %}{{ string_with_newlines | newline_to_br }}
+	</td>
+	<td style="width:0.75rem">
+		<!-- empty table cell here, defines width -->
+	</td>
+	<td>
+		{% capture string_with_newlines %}{{ concert.place }}{% endcapture %}{{ string_with_newlines | newline_to_br }}
+	</td>
+</tr>
+
+<!-- title -->
+{% if concert.title %}
+	<tr style="height:0.75em"><td/></tr>
+	<tr>
+		<td/>
+		<td/>
+		<td>
+			<b style="font-size:140%;">{{ concert.title }}</b>
+		<td/>
+	</tr>
+{% endif %}
+
+<!-- descrption  -->
+{% if concert.description %}
+	<tr style="height:0.75em"><td/></tr>
+	<tr>
+		<td/>
+		<td/>
+		<td>
+			{% capture string_with_newlines %}{{ concert.description }}{% endcapture %}{{ string_with_newlines | newline_to_br }}
+		</td>
+	</tr>
+{% endif %}
+
+<!-- musicians  -->
+{% if concert.musicians %}
+	<tr style="height:0.75em"><td/></tr>
+	<tr>
+		<td align="right"></td>
+		<td/>
+		<td>{{ concert.musicians }}</td>
+	</tr>
+	{% if concert.url %}
+		<tr>
+			<td align="right"></td>
+			<td/>
+			<td>
+				<a target="_blank" rel="noopener noreferrer" href={{ concert.url }}>{{ concert.url }}</a>
+				{% if concert.url %}
+					<br><a target="_blank" rel="noopener noreferrer" href={{ concert.url2 }}>{{ concert.url2 }}</a>
+				{% endif %}
+			</td>
+		</tr>
+	{% endif %}
+{% endif %}
+
+<!-- vertical spacer to next entry-->
+<tr style="height:2em"><td/></tr>
