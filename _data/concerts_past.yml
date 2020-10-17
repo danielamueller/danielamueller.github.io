@@ -4,12 +4,12 @@
   place: |
     Fondation Sylvia Waddilove, <u>Villeneuve</u>
   title: |
-    Mondrian Ensemble: Konzert in Villeneuve (VD)
+    Konzert in Villeneuve (VD)
   description: |
     Jefim Golyscheff: Zwölftondauermusik für Streichtrio, 1914
     Franz Liszt: Lugubre Gondola für Cello und Klavier, 1885
     Franz Liszt: Die Wiege, 1881 (arrangiert von Martin Jaggi für Streichtrio)
-    Franz Liszt: Nuages gris, 1881 (bearbeitet von Martin Jaggi)
+    Franz Liszt: Nuages gris, 1881 (arrangiert von Martin Jaggi für Klavierquartett)
   musicians: Mondrian Ensemble
 
 - datetime: |
@@ -21,7 +21,7 @@
     Schlössli Wartegg, <u>Luzern</u>
     Kunstraum Walcheturm, <u>Zürich</u>
   title: |
-    Mondrian Ensemble: Carte blanche für Pierre Mariétan
+    Carte blanche für Pierre Mariétan
   description: |
     Earle Brown: December 1952
     Pierre Mariétan: Initiative, 1968
@@ -39,7 +39,7 @@
     Konzert beim Festival Klang Basel
   description: |
     Franz Liszt: Die Wiege, 1881 (arrangiert von Martin Jaggi für Streichtrio)
-    Franz Liszt: Nuages gris, 1881 (bearbeitet von Martin Jaggi für Klavierquartett)
+    Franz Liszt: Nuages gris, 1881 (arrangiert von Martin Jaggi für Klavierquartett)
     Franz Liszt: Lugubre Gondola für Cello und Klavier, 1885
     Pierre Mariétan: Trio pour cordes, 1962
   musicians: Mondrian Ensemble
@@ -52,7 +52,7 @@
     Konzert beim Festival Label Suisse
   description: |
     Franz Liszt: Die Wiege, 1881 (arrangiert von Martin Jaggi für Streichtrio)
-    Franz Liszt: Nuages gris, 1881 (bearbeitet von Martin Jaggi für Klavierquartett)
+    Franz Liszt: Nuages gris, 1881 (arrangiert von Martin Jaggi für Klavierquartett)
     Franz Liszt: Lugubre Gondola für Cello und Klavier, 1885
     Pierre Mariétan: Trio pour cordes, 1962
   musicians: Mondrian Ensemble
@@ -72,7 +72,7 @@
   place: |
     Temple, <u>Champéry</u>
   title: |
-    Mondrian Ensemble: Konzert in Champéry, Temple
+    Konzert in Champéry
   description: |
     Werke von Pierre Mariétan
   musicians: Mondrian Ensemble
@@ -80,14 +80,14 @@
 - datetime: |
     08.07.2014
   place: |
-    Musikwoche Braunwald 2014, <u>Braunwald</u>
+    <u>Braunwald</u>
   title: |
     Musikwoche Braunwald
   description: |
     Luciano Berio: Feuerklavier, 1989
     Luciano Berio: Wasserklavier, 1965
     Franz Liszt: Lugubre Gondola für Cello und Klavier, 1885
-    Franz Liszt: Nuages gris, 1881 (bearbeitet von Martin Jaggi für Klavierquartett)
+    Franz Liszt: Nuages gris, 1881 (arrangiert von Martin Jaggi für Klavierquartett)
     Luciano Berio: Luftklavier, 1885
     Luciano Berio: Erdenklavier, 1969
     Claude Debussy: Sonate für Violine und Klavier g-Moll
@@ -104,9 +104,9 @@
     Kunstraum Walcheturm, <u>Zürich</u>
     Kulturhaus West, <u>Zofingen</u>
   title: |
-    Mondrian Ensemble: Retour an dich
+    Retour an dich
   description: |
-    Roman Haubenstock-Ramati: Streichtrio Nr. 1, Ricercari, 1948 - 1978
+    Roman Haubenstock-Ramati: Streichtrio Nr. 1, Ricercari
     Beat Furrer: retour an dich für Klaviertrio, 1986
     Roman Haubenstock-Ramati: Streichtrio Nr. 2
     Johannes Brahms: Klavierquartett A-Dur Op. 26, 1861
@@ -115,9 +115,9 @@
 - datetime: |
     02.05.2014
   place: |
-    Zimmermannhaus, <u>Brugg</u>
+    <u>Brugg</u>
   title: |
-    Mondrian Ensemble: Konzert in Brugg
+    Konzert im Zimmermannhaus
   description: |
     Wolfgang Amadeus Mozart: Klavierquartett Es-Dur KV 493, 1786
     Johannes Brahms: Klavierquartett A-Dur Op. 26, 1861
@@ -132,7 +132,7 @@
     Gare du Nord, <u>Basel</u>
     Kunstraum Walcheturm, <u>Zürich</u>
   title: |
-    Mondrian Ensemble: weisse aepfel.
+    weisse aepfel.
   description: |
     Klaus Lang: weisse aepfel. für Streichtrio, 2009
     Carlo Ciceri: criteria insorge für Streichtrio, 2013/14
