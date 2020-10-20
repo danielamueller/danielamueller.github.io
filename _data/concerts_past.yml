@@ -32,6 +32,16 @@
   musicians: Mondrian Ensemble
 
 - datetime: |
+    24.10.2014
+  place: |
+    <u>Basel</u> (Première)
+  title: |
+    Don Pasquale am Theater Basel
+  description: |
+    Gaetano Donizetti: Don Pasquale, 1842
+  musicians: Basel Sinfonietta
+
+- datetime: |
     21.09.2014
   place: |
     Volkshaus Galeriesaal, <u>Basel</u>
@@ -76,6 +86,24 @@
   description: |
     Werke von Pierre Mariétan
   musicians: Mondrian Ensemble
+
+- datetime: |
+    09.07.2014
+    27.09.2014
+    20.03.2015
+    21.03.2015
+    25.05.2015
+  place: |
+    Musikwochen, <u>Braunwald</u>
+    Maison 44, <u>Basel</u>
+    Postremise, <u>Chur</u>
+    Lavatersaal, <u>Zürich</u>
+    Forum Wallis, <u>Leuk</u>
+  title: |
+    Ech läbä noch
+  description: |
+    Gedichte von A. M. Bacher in Musik von Thüring Bräm, Martin Derungs und Ulrich Gasser. Werke für Gesang, Flöte, Klavier, Violine und Cello
+  musicians: Bacher Ensemble
 
 - datetime: |
     08.07.2014
@@ -123,6 +151,20 @@
     Johannes Brahms: Klavierquartett A-Dur Op. 26, 1861
   musicians: Mondrian Ensemble
 
+- datetime: |
+    28.03.2014
+    30.03.2014
+    31.03.2014
+  place: |
+    <u>Mulhouse</u>
+    Casino, <u>Basel</u>
+    Dampfzentrale, <u>Bern</u>
+  title: |
+    Basel Sinfonietta: Utopia II
+  description: |
+    Thomas Kessler: Utopia II für Orchester und Elektronik (2010/2011)
+  musicians: Basel Sinfonietta
+  
 - datetime: |
     20.02.2014
     21.02.2014
